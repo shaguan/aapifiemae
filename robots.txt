@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eehaikeewo.balakiriev.com/sitemap.xml
